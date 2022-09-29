@@ -1,46 +1,15 @@
 # HW-20-Smart-Contracts-with-Solidity
-**Unit <#> - <Title>**
+**Unit 20 - Joint Savings Account**
 
 ## The Scenario
 
-<Project Scenario>
+A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
 
-## Navigating the GitHub
+To automate the creation of joint savings accounts, you’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 
-The following was provided at the beginging of the assessment and can be found in the Starter_code folder:
-
-- [Insert Given Notebook Name](this is a link)
-- [Inset Resource given](this is a link)
-- [Inset Resource given](this is a link)
-
-In the Worked_Code folder you will find:
-
-- [Insert Given Notebook Name](this is a link) - Contains images of all the plots created in the ipynb files.
-- [Inset Resource given](this is a link) - The code I have written for this notebook.
-- [Inset Resource given](this is a link) - The code I have written for this notebook.
-
-## Important Notice
-
-1. Please view this github in Day Theme - Light Default so that headers and axises on the plots show.
-
-## <Heading>
-
-### <Sub-Heading>
+## Solidity Output
 
 <ins> <subject> </ins>
 
 ![Image name](this is a link)
 
-**Question:** <question>
-
-**Answer:** <answer>
-
-### <Heading> Conclusions
-
-1. **<question>**
-
-- <answer>
-
-
-# Reference List
-- [<sup>1</sup> this is a link](this is a link)
