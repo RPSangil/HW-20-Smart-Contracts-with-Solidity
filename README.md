@@ -9,7 +9,32 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 ## Solidity Output
 
-<ins> <subject> </ins>
+<ins> Compiled Contract </ins>
 
-![Image name](this is a link)
+![Compiled Contract](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Compiled.PNG)
+
+<ins> Contract Deployed </ins>
+
+![Contract Deployed](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Contract%20deployed.PNG)
+
+<ins> Set Accounts working </ins>
+
+![Set Accounts working](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Set%20Account%20working.PNG)
+
+<ins> Deposit Working </ins>
+
+![Deposit Working](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Deposit%20working.PNG)
+
+<ins> Correct Balance </ins>
+
+![Correct Balance](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Correct%20Balance.PNG)
+
+
+<ins> Withdraw Working </ins>
+
+![Withdraw Working](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Withdraw%20working.PNG)
+
+<ins> Correct Balance and data after withdrawl </ins>
+
+![Correct Balance and data after withdrawl](https://github.com/RPSangil/HW-20-Smart-Contracts-with-Solidity/blob/2ea9c9ea97e56f68a88ab837c1a900faaae7b6c8/Images/Correct%20balance%20after%20withdraw.PNG)
 
